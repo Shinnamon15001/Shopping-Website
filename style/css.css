@@ -559,6 +559,8 @@ footer .copyright {
 }
 #prodetails .single-pro-details h4 {
     padding: 40px 0 20px 0;
+    font-size: 28px;
+    font-weight: 600;
 }
 #prodetails .single-pro-details h2 {
     font-size: 26px;
@@ -803,5 +805,21 @@ footer .copyright {
 
     footer .copyright {
         text-align: start;
+    }
+
+
+    /* -------------------------------------Single Product----------------------------------------- */
+
+
+    #prodetails {
+        display: flex;
+        flex-direction: column;
+    }
+    #prodetails .single-pro-image {
+        width: 100%;
+        margin-right: 0px;
+    }
+    #prodetails .single-pro-details {
+        width: 100%;
     }
 }
