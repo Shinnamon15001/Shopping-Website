@@ -310,8 +310,9 @@ button.white {
     justify-content: center;
     align-items: flex-start;
     background-image: url("../img/banner/b17.jpg");
-    min-width: 850px;
-    height: 50vh;
+    width: 100%;
+    height: 50dvh;
+    margin-bottom: 20px;
     background-position: center;
     background-size: cover;
     padding: 30px ;
@@ -494,7 +495,7 @@ footer .copyright {
 
 /* -----------------------Responsive--------------------------- */
 
-@media (max-width: 799px) {
+@media (max-width: 1000px) {
     .section-p1 {
         padding: 40px 40px;
     }
