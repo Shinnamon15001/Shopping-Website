@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style/try.css">
+    <title>Document</title>
+</head>
+<body>
+    <div class="hero-box">
+        <img id="hero" src="img/hero.png" alt="">
+    </div>
+    
+    <button id="hero" type="button" onclick="hero()">Click Me To Hide Hero!</button>
+
+    <button id="close" type="button" onclick="show()">Click Me To Show Hero!</button>
+
+    <script>
+        function hero() {
+            document.getElementById('hero').style.display = 'none';
+            document.getElementById('close').style.display = 'flex';
+        }
+        function show() {
+            document.getElementById('hero').style.display = 'flex';
+            document.getElementById('close').style.display = 'none';
+        }
+    </script>
+
+
+
+
+</body>
+</html>
