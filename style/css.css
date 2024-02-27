@@ -667,10 +667,54 @@ footer .copyright {
 }
 
 
+/* -------------------------------------about----------------------------------------- */
+
+
+.contact-header {
+    background-image: url(../img/banner/b18.jpg);
+}
+#about-head {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+#about-head img {
+    width: 800px;
+    padding-right: 30px;
+}
+#about-head p {
+    line-height: 30px;
+    font-size: 20px;
+}
+#about-head abbr {
+    padding-top: 30px;
+    padding-bottom: 10px;
+    font-size: 22px;
+}
+#about-head marquee {
+    padding-top: 10px;
+    background-color: #b7b7b7;
+    width: 100%;
+    font-size: 28px
+}
 
 
 
+/* -------------------------------------contact----------------------------------------- */
 
+
+#contact-box {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+#contact-box .map-box {
+    width: 40%;
+}
+#contact-box .contact-text-box {
+    width: 60%;
+    padding-left: 30px;
+}
 
 
 
