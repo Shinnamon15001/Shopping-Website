@@ -679,7 +679,7 @@ footer .copyright {
     justify-content: center;
 }
 #about-head img {
-    width: 800px;
+    width: 50%;
     padding-right: 30px;
 }
 #about-head p {
@@ -983,7 +983,7 @@ footer .copyright {
     #about-head abbr {
         line-height: 30px;
     }
-    
+
 
     /* -------------------------------------about page----------------------------------------- */
 
