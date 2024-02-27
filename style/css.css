@@ -960,4 +960,46 @@ footer .copyright {
         width: 100%;
     }
 
+
+    /* -------------------------------------about page----------------------------------------- */
+
+
+    #about-head {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+    #about-head img {
+        width: 100%;
+        padding-right: 0;
+    }
+    #about-head h2 {
+        padding-top: 20px;
+        font-size: 50px;
+    }
+    #about-head p {
+        margin-bottom: 30px;
+    }
+    #about-head abbr {
+        line-height: 30px;
+    }
+    
+
+    /* -------------------------------------about page----------------------------------------- */
+
+
+    #contact-box {
+        flex-direction: column;
+    }
+    #contact-box .map-box {
+        width: 100%;
+    }
+    #contact-box .contact-text-box {
+        width: 100%;
+        padding-left: 0;
+    }
+    #contact-box .contact-text-box h2 {
+        font-size: 50px;
+    }
+    
 }
