@@ -9,22 +9,17 @@
 <body>
     <div class="hero-box">
         <img id="hero" src="img/hero.png" alt="">
+        <button id="hero" type="button" onclick="hero()">Click Me To Hide Hero!</button>
+        <button id="close" type="button" onclick="show()">Click Me To Show Hero!</button>
+    </div>
+    <div class="data-box">
+        <div id="data-container">
+            <p></p>
+        </div>
     </div>
     
-    <button id="hero" type="button" onclick="hero()">Click Me To Hide Hero!</button>
-
-    <button id="close" type="button" onclick="show()">Click Me To Show Hero!</button>
-
-    <script>
-        function hero() {
-            document.getElementById('hero').style.display = 'none';
-            document.getElementById('close').style.display = 'flex';
-        }
-        function show() {
-            document.getElementById('hero').style.display = 'flex';
-            document.getElementById('close').style.display = 'none';
-        }
-    </script>
+   
+    <script src="script/try.js"></script>
 
 
 
