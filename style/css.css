@@ -533,6 +533,25 @@ footer .copyright {
     font-size: 16px;
 }
 
+#alert-message {
+    width: 100%;
+    height: 30svh;
+}
+#alert-message .message-box {
+    width: 100%;
+    height: 50%;
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+}
+#alert-message .message-box p {
+    font-size: 74px;
+    font-weight: 700;
+    text-align: center;
+    margin-top: 50px;
+    text-decoration-line: underline;
+}
+
 
 /* -------------------------------------Single Product----------------------------------------- */
 
