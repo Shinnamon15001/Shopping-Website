@@ -29,3 +29,73 @@ onclick="window.location.href='product0.html';"
                 <option value="">Large</option>
                 <option value="">Extra Large</option>
             </select>
+
+
+
+            <div class="pro">
+                <img src="img/products/f14.png" alt="poor pic" onclick="window.location.href='product/product14.html';">
+                <div class="des">
+                    <span>Coding Style</span>
+                    <h5>Coding Black Bag</h5>
+                    <div class="star">
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                    </div>
+                    <h4>220฿</h4>
+                </div>
+                <a href="#"><i class="fa-solid fa-cart-shopping cart"></i></a>
+            </div>
+            
+            <div class="pro">
+                <img src="img/products/f15.png" alt="poor pic" onclick="window.location.href='product/product15.html';">
+                <div class="des">
+                    <span>Coding Style</span>
+                    <h5>Coding White Hat</h5>
+                    <div class="star">
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                    </div>
+                    <h4>220฿</h4>
+                </div>
+                <a href="#"><i class="fa-solid fa-cart-shopping cart"></i></a>
+            </div>
+
+            <div class="pro">
+                <img src="img/products/f4.png" alt="poor pic" onclick="window.location.href='product/product4.html';">
+                <div class="des">
+                    <span>Coding Style</span>
+                    <h5>Coding Gray T-Shirts</h5>
+                    <div class="star">
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                    </div>
+                    <h4>249฿</h4>
+                </div>
+                <a href="#"><i class="fa-solid fa-cart-shopping cart"></i></a>
+            </div>
+
+            <div class="pro">
+                <img src="img/products/f5.png" alt="poor pic" onclick="window.location.href='product/product5.html';">
+                <div class="des">
+                    <span>Coding Style</span>
+                    <h5>Coding Dark Gray T-Shirts</h5>
+                    <div class="star">
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                    </div>
+                    <h4>249฿</h4>
+                </div>
+                <a href="#"><i class="fa-solid fa-cart-shopping cart"></i></a>
+            </div>
