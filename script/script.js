@@ -12,3 +12,6 @@ if (close) {
         nav.classList.remove('active');
     });
 }
+
+var storeImg = document.getElementsByClassName("store-img");
+var proDuct = document.getElementsByClassName("Sproduct");
