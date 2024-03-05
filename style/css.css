@@ -1279,13 +1279,14 @@ footer .copyright {
     /* -------------------------------------cart page----------------------------------------- */
 
 
-    #cart table {
-        width: 100%;
-        border-collapse: unset;
-        table-layout: auto;
-        white-space: nowrap;
-        
+    #cart-add {
+        flex-direction: column;
     }
-
-    
+    #coupon {
+        width: 100%;
+    }
+    #subtotal {
+        width: 100%;
+        padding: 20px;
+    }
 }

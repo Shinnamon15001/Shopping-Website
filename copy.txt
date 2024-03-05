@@ -99,3 +99,27 @@ onclick="window.location.href='product0.html';"
                 </div>
                 <a href="#"><i class="fa-solid fa-cart-shopping cart"></i></a>
             </div>
+
+
+for the next step i will show my shopping website. For the first page is a home page.
+on this page you will saw someone is presenter of my shopping website.
+nah just kidding look at top website that is a manu. You will saw logo of my company and right screen is menu of the website 
+They has 6 menu . the first menus is home page so this is home page when you scroll down 
+i want to let's you know about my strange of website first is free shiping secound is online order next is save your money
+because we have a lot of voucher and promotion to my customers. 
+    Next is newst products this part will show about newst products when we make a new cloth or new product.
+    next is pro motion i will make it for season promotion like big sale in summer or winter maybe more.
+
+look at menu again next is shop page this page will show all of my product in my store
+if you want to see more details just click . i will bring you to the details product page
+you can choose your size have 4 choice and you can add quantity to buy and then clik Add to cart
+for now nothing happed because i did not create this function it's out of my know ladge so sorry.
+ and if you scroll down i will show recomend product again
+    Next page is Blog page if i have somethink to information i will put the update in this page 
+    look at date 6 of march and look at topic lastupdate and details
+    the next page is about i will interview my team but now i have nothing just group picture
+    Next page is contact i put the google map for you if you can't find me.
+    and if you have the problems you can leave message for me you can type anything and put submit button
+    the message will send it to me. 
+    nex is cart if you choose your product i will add it in cart and they will show in this page and calculate 
+    your priceand click procedd to checkout and wait until it send to your home.
