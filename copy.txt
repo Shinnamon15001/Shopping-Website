@@ -123,3 +123,6 @@ for now nothing happed because i did not create this function it's out of my kno
     the message will send it to me. 
     nex is cart if you choose your product i will add it in cart and they will show in this page and calculate 
     your priceand click procedd to checkout and wait until it send to your home.
+
+
+
